@@ -1,5 +1,5 @@
 
-# Questions
+# Frequntly Asked Questions (FAQs)
 ## Answered
 {{< expand "1. What is social technology?" "..." >}}
 > [Social technology is the hardware and software that determine how we organize and collectively live our lives. But it is also the the ideas, knowledge, economics, and institutions that drive culture and sustain societies. And it is the way this knowledge is embedded in the technologies we use.](https://otherinter.net/about/)
