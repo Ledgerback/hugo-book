@@ -1,8 +1,24 @@
 # About
 
-Founded in 2018, the Ledgerback Digital Commons Research Cooperative (LDCRC) is a 501(c)(3) nonprofit cooperative association for advancing knowledge in the Decentralized Web (DWeb) and related fields (i.e., the Ledgerback Frontier), through research, education, technology, monitoring, and advocacy.
+Founded in 2018, the Ledgerback Digital Commons Research Cooperative (LDCRC) is a 501(c)(3) nonprofit cooperative association coalescing a socially-aware expert community to advance knowledge in the decentralized web and related fields (i.e., the Ledgerback Frontier, the space between the current and the future ages of humanity).
 
 Our outputs from our work can include scientific publications, reports, blog posts, open educational resources, trainings, tools, methods, platforms, open-source software, open datasets, newsletters, demonstrations, and more.
+
+## What is a Cooperative? 
+
+As mentioned earlier, the LDCRC is a cooperative. 
+
+To better understand cooperatives, please refer to this short list of resources to get you situated:
+
+1. [Co-ops 101](https://cooperativesfirst.com/coops101/) (course),
+1. [What is a Cooperative?](https://uwcc.wisc.edu/about-co-ops/) (web article), and
+2. [Cooperatives 101](https://www.youtube.com/watch?v=ulA53ZeOKI0) (video).
+
+Additionally, please refer to the excellent resources from the University of Wisconsin's Center for Cooperatives for additional information on [cooperatives](https://uwcc.wisc.edu/about-co-ops/). 
+
+For better understanding on the difference between for-profit and non-profit cooperatives, please read:
+
+1. [For-Profit and Not-for-Profit Co-operatives](https://ontario.coop/sites/default/files/STR06_For%20Profit%20and%20Not%20for%20Profit%20Co-ops.pdf)
 
 
 
@@ -50,7 +66,7 @@ Our mascot is our super adorable and quick-witted stork you see in our logo, Sco
 ---
 ## Links
 
-Stalk us on the internet!
+Find us on the internet via the links below. 
 
 [Website](https://www.ledgerback.coop/)
 

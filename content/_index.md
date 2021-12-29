@@ -7,9 +7,9 @@ type: docs
 
 
 # **Welcome!**
-Founded in 2018, the Ledgerback Digital Commons Research Cooperative (LDCRC) is a 501(c)(3) nonprofit cooperative association coalescing a socially-aware research community for advancing knowledge in the decentralized web and related fields (i.e., the Ledgerback Frontier) through research, education, technology, advocacy, and monitoring.
+Founded in 2018, the Ledgerback Digital Commons Research Cooperative (LDCRC) is a 501(c)(3) nonprofit cooperative association coalescing a socially-aware expert community to advance knowledge in the decentralized web and related fields (i.e., the Ledgerback Frontier, the space between the current and the future ages of humanity).
 
-If you are new to LDCRC and want to help, here's what you should do:
+If you are new to the LDCRC and want to help out, here's what you should do:
 
 1. Join our Slack or Discord, and remember to browse the channels and join the ones that interest you.
 2. Sign up for our [newsletter](https://ledgerback.substack.com/) to stay informed about LDCRC events and other initiatives.

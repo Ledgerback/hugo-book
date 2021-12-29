@@ -9,5 +9,14 @@ Alternatively, you can fill out one of the roles below:
 1. Data Entry
 2. Video Editor
 3. Audio Editor
-4. Interviewer
 5. Article Summarizer
+1. Grant Writer
+2. Systems Administrator
+3. Research Assistant
+5. Software Developer 
+6. Community Manager
+7. Communications manager
+9. Operations manager 
+13. Event Organizer
+14. UI/UX Designer 
+15. Social Media Manager

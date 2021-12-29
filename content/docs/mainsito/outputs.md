@@ -31,10 +31,10 @@
 - [Decentralized Web Trivia Game](https://quizizz.com/join?gc=58809249).
 	- A trivia game covering historical events in the Decentralized Web (DWeb) (i.e., Web3) on Quizizz
 
-## Methods
+## Social Auditing and Diagnostics
 
-- [DAO Index](https://forms.gle/tz7DMV5QZoaiDX8ZA)
-	- The DAO Index (and accompanying survey) is a method for assessing a Decentralized Autonomous Organization's (DAOs) adherence to: 1) ten (10) organizing principles that connect all DAOs, and 2) distributed governance (DGov) practices of transparency and participation.
+- [DAO Index Survey (i.e., Self-assessment questionnaire)](https://forms.gle/tz7DMV5QZoaiDX8ZA)
+	- The DAO Index (and accompanying survey) is a method for assessing a Decentralized Autonomous Organization's (DAOs) adherence to: 1) ten (10) organizing principles that connect all DAOs.
 
 ## Web Annotations
 
@@ -50,21 +50,23 @@
 
 ## Datasets
 
-- [Glossary Preview](https://airtable.com/invite/l?inviteId=invZy0mTYxOqalIgA&inviteToken=87a5df077eb216c31b73065cb7f7c2d70a4cd62a2ab0006634cf9f927ded8619&utm_source=email)
-	- A preview of the Glossary dataset (part of the Observatory project), a mapping and catalog of terms in the Ledgerback Frontier
-- [People Preview](https://airtable.com/invite/l?inviteId=inv2DP6XFlwqYdAes&inviteToken=efcebd24d4500321be6c5a688702e57a494306bbb7db0eeffc3e1bb111328dfb&utm_source=email)
-	- A preview of the People dataset (part of the Observatory project), a mapping and catalog of people (scholars, technologists, venture capitalists, etc.) working at and influencing the Ledgerback Frontier 
-- [Tools Preview](https://airtable.com/invite/l?inviteId=invV6420GiAlzg25W&inviteToken=f1e15a220e9771c5ec427e5656158b66cf1d671e86c8b4e3562b059e4ea636b1&utm_source=email)
-	- A preview of Tools dataset, a mapping and catalog of tools to help build and understand the Ledgerback Frontier
+- [Observatory of the Ledgerback Frontier](https://airtable.com/shrrykCXWOnP2kMbL): a preview of people, organizations, vocabulary, job boards, databases, events, concepts, tools, and more, that will help you explore the Ledgerback Frontier. 
+	- [Glossary Preview](https://airtable.com/invite/l?inviteId=invZy0mTYxOqalIgA&inviteToken=87a5df077eb216c31b73065cb7f7c2d70a4cd62a2ab0006634cf9f927ded8619&utm_source=email)
+		- A preview of the Glossary dataset (part of the Observatory project), a mapping and catalog of terms in the Ledgerback Frontier
 - [Ledgerback Frontier Portal's Repository of Web3 self-study resources](https://airtable.com/invite/l?inviteId=invDl4qQaPsZFJbrq&inviteToken=7a9ea0c4feecc4031bf0d5b007c1a0bc7dbd7fdf324658b78be21801fd654083&utm_source=email)
-	- Repository of self-study resources on Web3, including articles, libraries, videos, and more
+	- Repository of self-study resources on Web3, including articles, libraries, videos, and more.
+- [DAO Index Ratings](https://airtable.com/shrBMIr782fodsTEP)
+	- a dataset of ratings made under the [DAO Index Self-assessment questionnaire](https://forms.gle/tz7DMV5QZoaiDX8ZA)
 
 ## Licenses
 
 - [Peer Accounting License (PAL)](https://community.coops.tech/t/idea-for-updating-the-peer-production-license-with-harberger-tax-and-collective-management-organizations/2173)
-	- A fork of the peer production license (PPL) applying the harberger tax method to derivatives and encouraging the formation of collective enterprises to manage proliferating intellectual property assets
+	- A fork of the Peer Production License (PPL) applying the harberger tax method to derivatives and encouraging the formation of collective enterprises to manage proliferating intellectual property assets
 
 ## Hardware
 
 - [Databike Zeta 001 (DBZ-001) prototype](https://www.hackster.io/ledgerback/databike-report-5eb9c2): a proof-of-concept converted electric bicycle paired witha Raspberry Pi for manipulating and streaming data (i.e., a databike)
 
+## Early-stage concepts
+
+- [Potential ideas for connecting Platform Cooperativism to Web3](https://medium.com/digital-cooperative-research/connecting-socio-technical-ecosystems-how-to-connect-web-3-0-and-platform-cooperatives-cd550df27d33).
