@@ -1,13 +1,12 @@
-# Donate to the Ledgerback Digital Commons Research Cooperative
+# Donate to the Ledgerback Digital Commons Research Cooperative (LDCRC)
 
 **Support the LDCRC's work on:**
 
--   Educational content
+-   Education
 -   Research
 -   Tools 
-- Events
-- Advocacy
-- Trainings
+-   Community-building
+
 
 ## How to donate
 

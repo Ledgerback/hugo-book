@@ -1,28 +1,34 @@
 # About
+## About us
 
-Founded in 2018, the Ledgerback Digital Commons Research Cooperative (LDCRC) is a 501(c)(3) nonprofit cooperative association coalescing a socially-aware expert community to advance knowledge in the decentralized web and related fields (i.e., the Ledgerback Frontier, the space between the current and the future ages of humanity).
 
-Our outputs from our work can include scientific publications, reports, blog posts, open educational resources, trainings, tools, methods, platforms, open-source software, open datasets, newsletters, demonstrations, and more.
+Founded in 2018, Ledgerback Digital Commons Research Cooperative (LDCRC) is a 501(c)(3) member-led research nonprofit with a mission to shape the future for public benefit by investigating and appling emerging technologies while drawing attention towards human-centric futures.
 
-## What is a Cooperative? 
 
-As mentioned earlier, the LDCRC is a cooperative. 
-
-To better understand cooperatives, please refer to this short list of resources to get you situated:
-
-1. [Co-ops 101](https://cooperativesfirst.com/coops101/) (course),
-1. [What is a Cooperative?](https://uwcc.wisc.edu/about-co-ops/) (web article), and
-2. [Cooperatives 101](https://www.youtube.com/watch?v=ulA53ZeOKI0) (video).
-
-Additionally, please refer to the excellent resources from the University of Wisconsin's Center for Cooperatives for additional information on [cooperatives](https://uwcc.wisc.edu/about-co-ops/). 
-
-For better understanding on the difference between for-profit and non-profit cooperatives, please read:
-
-1. [For-Profit and Not-for-Profit Co-operatives](https://ontario.coop/sites/default/files/STR06_For%20Profit%20and%20Not%20for%20Profit%20Co-ops.pdf)
+The LDCRC works across fundamental research, tool-building, community-building, commercialization, and education to achieve our mission.
 
 
 
-## Members
+
+## Ongoing Work
+
+You can find out more about our ongoing work and writings in our [Airtable base](https://airtable.com/shrJxpvKJ6TpkwRB7).
+
+## Strategic Plan and Institutional Model
+You can find our living model and strategic plan, the Networked-Cognitive Cooperative Institute (NC2I), [here](https://docs.google.com/document/d/1FKHmlRI0tAwQAiqkYbgNf04AsWDAKnDlkyNVadFfvGw/edit?usp=sharing). The document version of the NC2I is still being edited so expect updates.
+
+For the current version of NC2I document (Version 0.3), the branches of the model include:
+
+1. Lab
+2. Equitable Knowledge Translation
+3. Community
+4. Academy
+5. Community-owned Markets
+
+
+
+
+## Team
 
 - [**Charles Adjovu**](https://twitter.com/CAdjovu)
 	- You can find Charles's digital garden [here](https://kylefox1.github.io/Quartz-Test/)
@@ -54,51 +60,39 @@ We chose "Ledgerback" based on the history of the slang term "greenback." Greenb
   
 Though this period caused some turmoil, it was a transitional period that has led to our current time where we accept that paper money has *underlying value*  without a second thought.  
 
-We believe we are going through a similar transitional period, e.g., Web2 to Web3, Indsutry 3.0 to Indsutry 4.0, and that the vairous fields working on making this transition occur are at the frontier or the edge of what is currently known (i.e., the Ledgerback Frontier).
+We believe we are going through a similar transitional period, e.g., Web2 to Web3, Industry 3.0 to Industry 4.0, and that the vairous fields working on making this transition occur are at the frontier or the edge of what is currently known (i.e., the Ledgerback Frontier).
   
 We believe we are going through a similar transitional period, where we are moving from soelly physical systems to digital, networked systems, especially those based on blockchains (i.e., systems that are backed by a cryptographic ledger).
 
 ## Mascot
 
-Our mascot is our super adorable and quick-witted stork you see in our logo, Scout Stork. Scout is scouting the world for new knowledge and getting ready to deliver to you the latest insights from the Ledgerback Frontier and even what awaits us past the frontier. 
+Our mascot is our super adorable and quick-witted stork you see in our logo, Scout Stork. Scout is scouting the world for new knowledge and getting ready to deliver to you the latest insights. 
 
 
 ---
-## Links
+## Follow LDCRC
 
-Find us on the internet via the links below. 
+[Website](https://www.ledgerback.coop/): Find out about the LDCRC
 
-[Website](https://www.ledgerback.coop/)
+[Twitter](https://twitter.com/ledgerback): Follow and chat with us on Twitter
 
-[Open Collective](https://opencollective.com/ledgerbackcoop) (Services and Donations)
+[Anchor Podcast](https://anchor.fm/philomath-ledgerback): Listen to our podcast episodes covering various topics
 
-[Twitter](https://twitter.com/ledgerback)
+[Every.org](https://www.every.org/ledgerback-digital-commons-research-cooperative): Donate to the LDCRC
 
-[Discord](https://discord.gg/t8AEb5s)
+[Speakerdeck](https://speakerdeck.com/ledgerback): Find our slidedecks
 
-[Slack](https://join.slack.com/t/ledgerback/shared_invite/zt-6kef18dv-gqFTrvM9xvINkO~v5ltgYw)
+[Redbubble](https://www.redbubble.com/people/ledgerback/shop): Purchase LDCRC-branded merchandise
 
-[Podcast](https://anchor.fm/philomath-ledgerback)
+[Teespring](https://teespring.com/stores/ledgerback-store): Purchase LDCRC-branded merchandise
 
-[Donate](https://opencollective.com/ledgerbackcoop)
 
-[Slides](https://speakerdeck.com/ledgerback)
+[GitHub](https://github.com/Ledgerback): Find our software and tools
 
-[Redbubble](https://www.redbubble.com/people/ledgerback/shop) (Merchandise)
+[Medium](https://medium.com/@ledgerback): Find our insights
 
-[Teespring](https://teespring.com/stores/ledgerback-store) (Merchandise)
-
-[GitHub](https://github.com/Ledgerback)
-
-[Medium](https://medium.com/@ledgerback)
-
-[Reddit](https://old.reddit.com/r/ledgerback/)
-
-[Forum](http://forum.ledgerback.coop)
-
-[Blog](http://blog.ledgerback.coop)
+## Contact Us
 
 [Email](mailto:ledgerback@gmail.com)
 
-
-
+[Discord](https://discord.gg/t8AEb5s)

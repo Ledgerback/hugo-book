@@ -1,0 +1,3 @@
+# Equitable Knowledge Transfer
+
+Through our translation program, we will work on turning our research outputs the into products for the world to use, through various avenues (e.g., IP licensing, spin-offs).  Through our translation program, we want to show that our research not only provides benefits to the public, but also has commercial value. Regarding the commercial value, we hope to translate our findings through equitable commercialization options such as cooperatives and trusts so that the value generated remains with the stakeholders.

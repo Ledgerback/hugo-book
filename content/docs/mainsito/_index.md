@@ -1,6 +1,6 @@
 ---
 bookFlatSection: false
 
-title: "Ledgerback Research"
+title: "LDCRC"
 weight: 4
 ---

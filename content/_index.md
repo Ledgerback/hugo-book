@@ -6,65 +6,67 @@ type: docs
 ![](favicon.png)
 
 
-# **Welcome!**
-Founded in 2018, the Ledgerback Digital Commons Research Cooperative (LDCRC) is a 501(c)(3) nonprofit cooperative association coalescing a socially-aware expert community to advance knowledge in the decentralized web and related fields (i.e., the Ledgerback Frontier, the space between the current and the future ages of humanity).
 
-If you are new to the LDCRC and want to help out, here's what you should do:
+# How can  we shape the future for public benefit? 
 
-1. Join our Slack or Discord, and remember to browse the channels and join the ones that interest you.
-2. Sign up for our [newsletter](https://ledgerback.substack.com/) to stay informed about LDCRC events and other initiatives.
-3. Book a call with one of our team members. We'd love to meet you and find out how we can help you improve the world.
-4. Scroll through the list of resources in the Outputs page. Don't worry if you don't know where to start, we can figure that out together during the call. Just have a look so you know what resources exists.
-5. Review our volunteer page to see what we need help with.
-6. Pick an activity off the Game Board and get some rewards.
-7. Look through our services to find the help you need.
-8. Follow our Twitter account
 
-If you are just looking to get involved in the Ledgerback Frontier, read [9 Ways to Get Involved in the Ledgerback Frontier](https://blog.ledgerback.coop/9-ways-to-get-invovled-in-the-lederback-frontier/) and head to the jobs page. 
+Ledgerback Digital Commons Research Cooeprative (LDCRC) is a 501(c)(3) member-led research nonprofit with a mission to shape the future for public benefit by investigating and appling emerging technologies while drawing attention towards human-centric futures.
 
----
-## Links
 
-Where to find us online.
+The LDCRC works across fundamental research, tool-building, community-building, commercialization, and education to achieve our mission.
 
-[Website](https://www.ledgerback.coop/)
 
-[Open Collective](https://opencollective.com/ledgerbackcoop) (Services and Donations)
 
-[Twitter](https://twitter.com/ledgerback)
-
-[Discord](https://discord.gg/t8AEb5s)
-
-[Slack](https://join.slack.com/t/ledgerback/shared_invite/zt-6kef18dv-gqFTrvM9xvINkO~v5ltgYw)
-
-[Podcast](https://anchor.fm/philomath-ledgerback)
-
-[Donate](https://opencollective.com/ledgerbackcoop)
-
-[Slides](https://speakerdeck.com/ledgerback)
-
-[Redbubble](https://www.redbubble.com/people/ledgerback/shop) (Merchandise)
-
-[Teespring](https://teespring.com/stores/ledgerback-store) (Merchandise)
-
-[GitHub](https://github.com/Ledgerback)
-
-[Medium](https://medium.com/@ledgerback)
-
-[Reddit](https://old.reddit.com/r/ledgerback/)
-
-[Discourse Forum](http://forum.ledgerback.coop)
-
-[Blog](http://blog.ledgerback.coop)
-
-[Email](mailto:ledgerback@gmail.com)
-
-[Ledgerback Cooperative Newsletter](https://ledgerback.substack.com/)
 
 
 ---
 
-Last updated: 2021-11-25
+{{< columns >}} 
+## Donate 
+
+Support our research and efforts to empower people to research and shape the future.
+
+{{< button relref="..\docs\mainsito\donate.md" >}} Donate now! {{< /button >}}
+
+<---> 
+
+## Products and Services
+
+We provide insights about emerging fields to help you anticipate the future, improve your problem-solving, and ease the research experience. 
+
+{{< button relref="\content\docs\mainsito\products-and-services.md"  >}} Hire us! {{< /button >}}
+
+<--->
+## Membership
+
+Join us as an affiliate and enjoy our member benefits.
+
+{{< button relref="..\docs\mainsito\membership.md"  >}} Join us! {{< /button >}}
+
+
+{{</ columns >}}
+
+---
+
+
+
+
+## Getting Involved
+
+### 9 Ways to Get Involved in the Ledgerback Frontier
+
+If you are looking to get involved in the fields developing emerging technologies such as Web3 and Platform Cooperatives, please read [9 Ways to Get Involved in the Ledgerback Frontier](https://blog.ledgerback.coop/9-ways-to-get-invovled-in-the-lederback-frontier/).
+
+### Schedule a Meeting or Volunteer
+Otherwise, consider becoming a member or volunter, stay up-to-date with us by subscribing to the [LDCRC newsletter](https://ledgerback.substack.com/), or consider scheduling a [meeting](https://calendly.com/ledgerback).
+
+
+
+
+---
+
+## Last updated
+2022-05-06
 
 
 
