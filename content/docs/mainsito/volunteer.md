@@ -1,15 +1,56 @@
-# Volunteer 
+# Help wanted
 
-If you would like to help out, please refer to the [volunteer board](https://docs.google.com/spreadsheets/d/1zL1Y_XuRxCWf1cdlSaC4rTokMdT1A1sLe9BruAxp-EI/edit?usp=sharing) for tasks we need help with. 
+We are looking for volunteers of all backgrounds to help investigate and apply emerging technologies and draw attention towards human-centric futures.
 
-If you are interested in helping, please add your name and Twitter handle to the table via the link above. 
+To volunteer for a project below, please complete this [form](https://forms.gle/jiw8gjLedwUNdVbUA).
 
-Alternatively, you can fill out one of the roles below:
+## Active projects looking for volunteers
+
+### Distroid
+
+1.  Curator
+2.  Summarizer 
+3.  Marketer
+4.  Partnerships
+
+### Distributed Governance Score Framework
+
+#### DAO Index
+
+1.  Research Assistant
+2.  DAO Governance Design and Disclosure Ratings Assistant
+3.  Marketer
+4.  Partnerships
+5. Content Writer
+
+### Bikestream
+
+1.  Data Scientist
+2.  Raspberry Pi (and potentially other hardware) Developer
+3.  Partnerships
+4.  Fundraiser
+5.  Content Writer
+
+### Portal
+
+1.  Research Assistant
+2.  Curator
+
+### Honors & Awards
+
+1.  Graphic Designer
+
+### Observatory
 
 1. Data Entry
-2. Content Editor
-5. Article Summarizer
-1. Grant Writer
-13. Event Organizer
+2. Marketer
+4. Partnerships
+5. Data Engineer
+6. Front-end developer
 
-Additionally, please consider becoming a curator for [Distroid](https://airtable.com/shrNjJRgybW5iVtCH). 
+### Speaker Series
+
+1. Events Organizer
+2. Assistant
+3. Content Writer
+4. Graphic Designer
