@@ -30,6 +30,7 @@ To volunteer for a project below, please complete this [form](https://forms.gle/
 3.  Partnerships
 4.  Fundraiser
 5.  Content Writer
+6. Research Assistant
 
 ### Portal
 
