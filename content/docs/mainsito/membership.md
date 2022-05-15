@@ -16,5 +16,5 @@ Become a lifetime member of the LDCRC for only $30.00. Our membership benefits i
 
 
 
-To join us, please send an inquiry to [ledgerback@gmail.com](mailto:ledgerback@gmail.com). Alternatively, you can schedule a meeting [here](https://calendly.com/ledgerback).
+To join us, please send an inquiry to [ledgerback@gmail.com](mailto:ledgerback@gmail.com) or complete the [affiliation form](https://forms.gle/JMiPHBJCCNMspgEH8). Alternatively, you can schedule a meeting [here](https://calendly.com/ledgerback).
 
