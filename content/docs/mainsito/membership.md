@@ -46,7 +46,7 @@ Membership only requires a one-time payment of $30.00 for lifetime duration.
 
 ## Interested?
 
-To join us, please send an inquiry to [ledgerback@gmail.com](mailto:ledgerback@gmail.com) or complete the [affiliation form](https://forms.gle/JMiPHBJCCNMspgEH8). Alternatively, you can schedule a meeting [here](https://calendly.com/ledgerback).
+To join us, please send an inquiry to [ledgerback@gmail.com](mailto:ledgerback@gmail.com) or complete the [affiliation form](https://forms.gle/1Zkn2pp8Yj9tKNUz8). Alternatively, you can schedule a meeting [here](https://calendly.com/ledgerback).
 
 
 
