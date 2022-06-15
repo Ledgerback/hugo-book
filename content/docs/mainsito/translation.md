@@ -1,3 +1,16 @@
-# Equitable Knowledge Transfer
+# Translating research on the frontiers into actionable insights 
 
-Through our translation program, we will work on turning our research outputs the into products for the world to use, through various avenues (e.g., IP licensing, spin-offs).  Through our translation program, we want to show that our research not only provides benefits to the public, but also has commercial value. Regarding the commercial value, we hope to translate our findings through equitable commercialization options such as cooperatives and trusts so that the value generated remains with the stakeholders.
+The LDCRC's Translation Office helps organizations and individuals in industry and the public understand the frontiers and how to use the knowledge generated from the frontiers in their own projects. 
+These partnerships help us better understand how knowledge from the frontiers can meaningfully impact the broader world. 
+
+
+In our engagements, we identify knowledge from the frontiers that are most relevant to particular challenges and develop strategies to translate and disseminate knowledge accordingly. 
+
+Our types of engagement currently include:
+
+1. Studio: work with a LDCRC member directly on a challenge
+2. Sponsorship: sponsor an LDCRC project 
+3. Entrepeneur: partner with the LDCRC to find and develop entrepeneurial teams to translate knowledge from the frontiers.
+
+
+If you would like to engage with the LDCRC on a translation project, please send an email to [ledgerback@gmail.com](mailto:ledgerback@gmail.com).

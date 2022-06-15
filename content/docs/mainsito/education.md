@@ -1,6 +1,19 @@
-# Education
 
-We provide educational content and live sessions to help you make sense of emerging tehnologies, movements, and new imaginaries of the future. 
+# Come learn with us!
+
+
+Join LDCRC for a transformative learning experience on the frontiers of science, technology, and society.  
+
+Our resources bring the frontiers of science, technology, and society to curiosity-driven individuals. 
+
+## Explore Learning Experiences at the Frontiers with Moyo
+
+If you are new to the frontiers, please check out [Moyo](https://lincoln202.softr.app) to find beginner to advanced courses covering various topics on the frontiers, such as Decentralized Autonomous Organizations, Blockchain, and Platform Cooperatives. 
+
+## Are you looking for a research experience? 
+
+If so, please contact [Charles Adjovu](https://twitter.com/CAdjovu) about becoming a participant or member at the LDCRC, or finding research opportunities elsewhere. 
+
 ## Syllabi
 
 Find syllabi on various topics.

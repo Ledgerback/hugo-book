@@ -12,6 +12,7 @@ To volunteer for a project below, please complete this [form](https://forms.gle/
 2.  Summarizer 
 3.  Marketer
 4.  Partnerships
+5. Editor
 
 ### Distributed Governance Score Framework
 

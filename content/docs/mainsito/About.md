@@ -2,30 +2,77 @@
 ## About us
 
 
-Founded in 2018, Ledgerback Digital Commons Research Cooperative (LDCRC) is a 501(c)(3) member-led research nonprofit with a mission to shape the future for public benefit by investigating and appling emerging technologies while drawing attention towards human-centric futures.
-
-
-The LDCRC works across fundamental research, tool-building, community-building, commercialization, and education to achieve our mission.
+The LDCRC provides the infrastructure for community-led intiatives to learn, connect, experiment, and build at the frontiers.
 
 
 
-
-## Ongoing Work
-
-You can find out more about our ongoing work and writings in our [Airtable base](https://airtable.com/shrJxpvKJ6TpkwRB7).
 
 ## Strategic Plan and Institutional Model
-You can find our living model and strategic plan, the Networked-Cognitive Cooperative Institute (NC2I), [here](https://docs.google.com/document/d/1FKHmlRI0tAwQAiqkYbgNf04AsWDAKnDlkyNVadFfvGw/edit?usp=sharing). The document version of the NC2I is still being edited so expect updates.
 
-For the current version of NC2I document (Version 0.3), the branches of the model include:
+The Networked-Cognitive Cooperative Institute (NC2I), further described below, is an institutional model and strategic plan for the LDCRC. For more information on the model, strategic plan, and background readings, please read the NC2I [Google Doc](https://docs.google.com/document/d/1sw7ymgunQRJ9OVvJo9NPRvvdA3ebUR8ZpHufkBo5RIo/edit?usp=sharing). The NC2I is still a work-in-progress so any comments or other feedback is much appreciated.
 
-1. Lab
-2. Equitable Knowledge Translation
-3. Community
-4. Academy
-5. Community-owned Markets
+### Institutional Model
 
 
+The NC2I is a model for building a digital cooperatively-owned and -governed institute ("research cooperative") to scaffold the human-centric side of the frontier, connect academia, industry and society, sustainably steward knowledge-based resources and tools, and expand the ability for anyone to generate, access, use and build upon knowledge from the frontiers. knowledge about the frontier. The NC2I builds upon the institutional forms of an independent scholar institute, cooperative, and tech nonprofit, and is inspired by other initiatives for new kinds of research organizations such as Focused Research Organizations, Private ARPA, etc.
+
+
+For background, a research cooperative (i.e., community-owned research institute) is a purpose-built, values-driven, and people-centered environment for research, development, education, and/or commercialization, generally oriented towards the social good or public interest.
+
+
+
+
+
+### Strategic Plan
+
+These initiatives (described as programs) are ways to approach growing the LDCRC as an institution.
+
+The programs are:
+
+1.  Cottage Program: obtain cloud infrastructure, tax-exempt status, basic membership base, team development, and early-stage funding
+    
+2.  Connectivity Program: connecting LDCRC to other people and entities at the frontier, develop an audience-research fit, and develop fruitful partnerships
+    
+3.  Library Program: initiative to crowdsource data, intelligence and knowledge into databases (or directories) for discovery engines to support research, decision-making, education, and participation at the frontier.
+    
+
+The initiatives are for building the institute's internal capacity, further implementing the NC2I model, have the LDCRC seen as a valuable research resource, and developing the LDCRC's ecosystem through a [portfolio of projects](https://benjaminreinhardt.com/parpa-2-pager.pdf).
+
+
+
+
+### Theory of Change
+
+Through our work, we will:
+
+-   narrow the time between when discoveries are made at the frontiers of technology, science, and society (“frontier”) and when they are disseminated to the public,
+    
+-   [expand the talent pool of people](https://progress.institute/broadening-the-knowledge-economy-through-independent-scholarship/) who can participate in research (or curiosity-driven exploration or self-directed research) at the frontier
+    
+-   spread awareness of human-centric futures (or narratives of such things) into discussions regarding the frontier
+    
+
+- spread awareness of or develop sustainable and equitable models for value generation and distribution of data-, information-, and knowledge-based resources and tools
+
+### Values
+
+
+
+1.  Solution-agnostic
+    
+2.  Interdependence
+    
+3.  Maximum creativity
+    
+4.  Thoughtfulness
+    
+5.  [Constantly learning](https://kanjun.me/writing/research-as-understanding) 
+    
+6.  Have fun
+    
+7.  Optimism
+
+8. Open Science
 
 
 ## Team
@@ -49,8 +96,12 @@ For the current version of NC2I document (Version 0.3), the branches of the mode
 
 You may find our Code of Conduct [here](https://docs.google.com/document/d/17UdnFOOtc0H1IOoD1Mr0xTvXzeIh51mw4jGScfbHtCk/edit?usp=sharing).
 
+---
 
-## Name
+## Identity
+
+
+### Name
 
 Ledgerback is a combination of "ledger" and "back." *Ledger* comes from the term Distributed Ledgers (which is often used interchangeably with blockchain). *Back* comes from the slang term "greenback."  
   
@@ -64,9 +115,9 @@ We believe we are going through a similar transitional period, e.g., Web2 to Web
   
 We believe we are going through a similar transitional period, where we are moving from soelly physical systems to digital, networked systems, especially those based on blockchains (i.e., systems that are backed by a cryptographic ledger).
 
-## Mascot
+### Mascot
 
-Our mascot is our super adorable and quick-witted stork you see in our logo, Scout Stork. Scout is scouting the world for new knowledge and getting ready to deliver to you the latest insights. 
+Our mascot is our super adorable and quick-witted stork you see in our logo, Scout Stork. Scout is flying across the frontiers to find and share knowledge.
 
 
 ---
@@ -81,10 +132,6 @@ Our mascot is our super adorable and quick-witted stork you see in our logo, Sco
 [Every.org](https://www.every.org/ledgerback-digital-commons-research-cooperative): Donate to the LDCRC
 
 [Speakerdeck](https://speakerdeck.com/ledgerback): Find our slidedecks
-
-[Redbubble](https://www.redbubble.com/people/ledgerback/shop): Purchase LDCRC-branded merchandise
-
-[Teespring](https://teespring.com/stores/ledgerback-store): Purchase LDCRC-branded merchandise
 
 
 [GitHub](https://github.com/Ledgerback): Find our software and tools

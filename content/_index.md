@@ -7,59 +7,32 @@ type: docs
 
 
 
-# How can  we shape the future for public benefit? 
+# Advancing our understanding of the frontiers to aid in shaping the future for public benefit
+
+Founded in 2018, the Ledgerback Digital Commons Research Cooperative (LDCRC) is a 501(c)(3) nonprofit focusing on the frontiers of technology, science, and society ("frontiers"), to aid in shaping the future for public benefit. Our community of curiosity-driven change-makers work across research, education, community-building, translation, and tool-building to achieve our mission. 
+
+We welcome anyone who is interested in exploring the frontiers and wants to make a positive impact on the world.
 
 
-Ledgerback Digital Commons Research Cooeprative (LDCRC) is a 501(c)(3) member-led research nonprofit with a mission to shape the future for public benefit by investigating and appling emerging technologies while drawing attention towards human-centric futures.
+Please consider supporting our work by making a tax-deductible donation, hiring us, or joining our community. 
 
+## Ongoing Work
 
-The LDCRC works across fundamental research, tool-building, community-building, commercialization, and education to achieve our mission.
+You can find our ongoing work and writings in our [Airtable base](https://airtable.com/shrJxpvKJ6TpkwRB7).
 
+You can find our projects under the [research](./mainsito/research.md) page.
 
-
-
-
----
-
-{{< columns >}} 
-## Donate 
-
-Support our research and efforts to empower people to research and shape the future.
-
-{{< button relref="..\docs\mainsito\donate.md" >}} Donate now! {{< /button >}}
-
-<---> 
-
-## Products and Services
-
-We provide insights about emerging fields to help you anticipate the future, improve your problem-solving, and ease the research experience. 
-
-{{< button relref="\content\docs\mainsito\products-and-services.md"  >}} Hire us! {{< /button >}}
-
-<--->
-## Membership
-
-Join us as an affiliate and enjoy our member benefits.
-
-{{< button relref="..\docs\mainsito\membership.md"  >}} Join us! {{< /button >}}
-
-
-{{</ columns >}}
-
----
 
 
 
 
-## Getting Involved
+---
 
-### 9 Ways to Get Involved in the Ledgerback Frontier
+## Contact Us
 
-If you are looking to get involved in the fields developing emerging technologies such as Web3 and Platform Cooperatives, please read [9 Ways to Get Involved in the Ledgerback Frontier](https://blog.ledgerback.coop/9-ways-to-get-invovled-in-the-lederback-frontier/).
+[Email](mailto:ledgerback@gmail.com)
 
-### Schedule a Meeting or Volunteer
-Otherwise, consider becoming a member or volunter, stay up-to-date with us by subscribing to the [LDCRC newsletter](https://ledgerback.substack.com/), or consider scheduling a [meeting](https://calendly.com/ledgerback).
-
+[Discord](https://discord.gg/t8AEb5s)
 
 
 

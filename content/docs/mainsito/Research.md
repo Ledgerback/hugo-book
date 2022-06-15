@@ -1,4 +1,31 @@
-# Research
+# Curiosity-driven exploration through a human-centric perspective
+
+Research pursuits at LDCRC are highly exploratory, often venturing into the unknown. Members are encouraged to engage in collaborative and self-directed research through projects that aid our understanding of the frontiers.
+
+## Themes 
+
+Themes are institute-wide research topics that draw together large networks of researchers from the LDCRC and beyond.
+
+Our themes include:
+
+-   Data Stewardship
+-   Digital Organizations
+-   Governance and Coordination
+-   Digital Identity
+-   Metascience
+-   Future of Work
+-   Sustainability
+-   Complex Intelligence
+-   Platform Economy
+-   Tools for Thought
+-   Social Enterprises
+-   Ethical Futures
+-   Emerging Markets
+-   Meta-crisis
+-   Emerging Technologies
+
+
+
 ## Papers
 
 
@@ -89,3 +116,5 @@ To get a better understanding of the DAO Index, please review the [DAO Index Bac
 ### Web3 and Platform Cooperatives
 
 Some early-stage concepts from Charles on [connecting Platform Cooperativism to Web3](https://medium.com/digital-cooperative-research/connecting-socio-technical-ecosystems-how-to-connect-web-3-0-and-platform-cooperatives-cd550df27d33).
+
+---
