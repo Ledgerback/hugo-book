@@ -117,13 +117,13 @@ We believe we are going through a similar transitional period, where we are movi
 
 ### Mascot
 
-Our mascot is our super adorable and quick-witted stork you see in our logo, Scout Stork. Scout is flying across the frontiers to find and share knowledge.
+Our mascot is our super adorable and quick-witted stork you see in our logo, Scout Stork. Scout is flying across the frontiers to find and share knowledge. Thus, our members are known as storks.
 
 
 ---
 ## Follow LDCRC
 
-[Website](https://www.ledgerback.coop/): Find out about the LDCRC
+[Website](https://www.ledgerback.xyz/): Find out about the LDCRC
 
 [Twitter](https://twitter.com/ledgerback): Follow and chat with us on Twitter
 

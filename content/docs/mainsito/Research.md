@@ -1,6 +1,6 @@
 # Curiosity-driven exploration through a human-centric perspective
 
-Research pursuits at LDCRC are highly exploratory, often venturing into the unknown. Members are encouraged to engage in collaborative and self-directed research through projects that aid our understanding of the frontiers.
+Research pursuits at LDCRC are highly exploratory, often venturing into the unknown. Members are encouraged to engage in collaborative and curiosity-driven research through projects that aid our understanding of the frontiers.
 
 ## Themes 
 

@@ -20,7 +20,7 @@ Please consider supporting our work by making a tax-deductible donation, hiring 
 
 You can find our ongoing work and writings in our [Airtable base](https://airtable.com/shrJxpvKJ6TpkwRB7).
 
-You can find our projects under the [research](./mainsito/research.md) page.
+You can find our projects under the [research](/docs/mainsito/research.md) page.
 
 
 
@@ -39,7 +39,7 @@ You can find our projects under the [research](./mainsito/research.md) page.
 ---
 
 ## Last updated
-2022-05-06
+2022-06-14
 
 
 

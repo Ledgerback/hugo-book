@@ -3,13 +3,14 @@
 
 We are a global community of curiosity-driven change-makers ("storks") who share knowledge, time, values and ideas to help steer humanity towards a future that benefits everyone. Together, we empower people to access, use and build upon knowledge from the frontiers for positive outcomes. 
 
-Our community is for anyone who is interested in exploring the frontiers and wants to make a positive impact on the world.
+Our community is for anyone (academics, engineers, lifelong learners, entrepeneurs, citizens, independent researchers, designers, artists, etc.) who is interested in exploring the frontiers and wants to make a positive impact on the world, to connect and collaborate with each other.
+
 
 
 Our community has different modes of involvement, with some folks choosing to join our events, some just browsing discussions in Discord, some just working on institution-building, some just using the LDCRC's products and services, and others working full- or part-time on projects.
 
 
-Becoming a member is a way to support the work at the LDCRC and helps make the LDCRC a sustainable platform.
+Becoming a member is a way to support the work at the LDCRC, take an active role in shaping the LDCRC's work, and helps make the LDCRC a sustainable platform.
 
 
 ## Benefits

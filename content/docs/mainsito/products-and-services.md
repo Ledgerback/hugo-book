@@ -1,6 +1,6 @@
 # Hire us!
 
-In addition to our research, we also provide assistance to public and private organizations and individuals to learn and research the frontiers. 
+In addition to our research, we also provide assistance to public and private organizations and individuals to explore the frontiers. 
 
 
 ## Products
